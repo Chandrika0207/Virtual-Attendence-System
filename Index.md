@@ -8,4 +8,6 @@
 
 # Practical 2 :- In this experiment, we will learn how to estimate the cost of a software project using standard estimation techniques. Cost estimation helps in predicting the effort, time, and resources needed for successful project completion. It is a key step in Software Engineering and Project Management for effective planning and budgeting.
 
-# Practical 3 :- 
+# Practical 3 :- Scheduling Project (Indentifying tasks, Indentiying resources, schedule project, use gantt chart).
+
+# Practical 4 :- 
