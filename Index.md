@@ -10,4 +10,12 @@
 
 # Practical 3 :- Scheduling Project (Indentifying tasks, Indentiying resources, schedule project, use gantt chart).
 
-# Practical 4 :- 
+# Practical 4 :- Modeling UML use case diagrams & capturing case scenarios.
+
+# Practical 5 :- Modeling data flow diagram & control of flow diagram.
+
+# Practical 6 :- Modeling UML diagrams structural & behavioral.
+
+# Practical 7 :- Modeling sequence diagrams & elements in a sequence diagrams.
+
+# Practical 8 :- Designing test sites for software testing, need for software testing, testing frameworks.
